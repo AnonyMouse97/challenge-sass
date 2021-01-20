@@ -3,7 +3,8 @@ body {
   background-color: #fff;
   color: #6b717f;
   margin: 0;
-  padding: Infinity;
+  padding-top: 0px;
+  padding-bottom: 0px;
   overflow-x: hidden; }
   body main {
     padding: 0 1em; }
