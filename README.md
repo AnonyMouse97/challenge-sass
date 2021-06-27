@@ -5,4 +5,4 @@ This was an exercise made during my [Becode](https://github.com/becodeorg) forma
 
 ![Sassy!](img/.gif)
 
-[SASS](https://anonymouse97.github.io/challenge-sass/)
+[deployed exercise](https://anonymouse97.github.io/challenge-sass/)
